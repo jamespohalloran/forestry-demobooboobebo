@@ -11,6 +11,16 @@ date: 2019-03-19 18:44:12 +0000
 heading: Belkirk College
 sub_heading: Engineering and Health Sciences
 layout: home
+title: rgegregre
+banner_image: ''
+hero_button:
+  text: ''
+  href: ''
+textline: ''
+services: []
+show_news: false
+partners: []
+show_staff: false
 published: false
 
 ---
