@@ -9,9 +9,10 @@ fields:
   default_to: excplicit_default_date
   config:
     required: false
-    date_format: 
+    date_format: MM/DD/YYYY
+    time_format: h:mm A ZZ
   default: 2019-03-01 04:00:00 +0000
 - type: datetime
   name: working_date
   label: working_date
-  default: 2019-03-01 04:00:00 +0000
+  default: 2019-03-01 00:00:00 -0400
