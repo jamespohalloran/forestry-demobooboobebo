@@ -12,4 +12,4 @@ fields:
     date_format: 
     time_format: 
     display_utc: 
-  default: '2019-03-14T15:03:07.446Z'
+  default: ''
