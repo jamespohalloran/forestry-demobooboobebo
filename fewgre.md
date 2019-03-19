@@ -6,7 +6,7 @@ deato: '2019-03-07T04:00:00.000Z'
 blocks:
 - template: project
   tags: []
-  dateo: 2019-03-19 18:43:46 +0000
+  dateo: 2019-03-22 18:43:46 +0000
 date: 2019-03-19 18:44:12 +0000
 heading: Belkirk College
 sub_heading: Engineering and Health Sciences
