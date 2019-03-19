@@ -9,6 +9,7 @@ fields:
   default_to: excplicit_default_date
   config:
     required: false
+    date_format: 
   default: 2019-03-01 04:00:00 +0000
 - type: datetime
   name: working_date
