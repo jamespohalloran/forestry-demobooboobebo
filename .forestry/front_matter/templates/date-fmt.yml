@@ -16,3 +16,14 @@ fields:
   name: working_date
   label: working_date
   default: 2019-03-01 00:00:00 -0400
+- name: new_date
+  type: datetime
+  label: new date
+  description: ''
+  default_to: excplicit_default_date
+  config:
+    required: false
+    date_format: MM/DD/YYYY
+    time_format: h:mm A ZZ
+    display_utc: 
+  default: '2019-03-19T17:13:46.686Z'
