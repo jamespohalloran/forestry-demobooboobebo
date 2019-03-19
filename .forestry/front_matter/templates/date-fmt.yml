@@ -31,3 +31,5 @@ fields:
     time_format: h:mm A ZZ
     display_utc: 
   default: '2019-03-19T17:13:46.686Z'
+pages:
+- about.md
