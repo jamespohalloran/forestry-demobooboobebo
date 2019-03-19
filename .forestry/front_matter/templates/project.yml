@@ -33,3 +33,4 @@ fields:
   default_to: relative_default_date
 pages:
 - _projects/gregregre.md
+- _projects/gre.md
