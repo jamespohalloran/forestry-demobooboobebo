@@ -31,5 +31,16 @@ fields:
     time_format: h:mm A ZZ
     display_utc: 
   default: '2019-03-19T17:13:46.686Z'
+- name: deato
+  type: datetime
+  label: deato
+  description: ''
+  default_to: excplicit_default_date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: 
+  default: '2019-02-24T18:33:01.505Z'
 pages:
 - about.md
