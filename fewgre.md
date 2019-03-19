@@ -8,6 +8,9 @@ blocks:
   tags: []
   dateo: 2019-03-19 18:43:46 +0000
 date: 2019-03-19 18:44:12 +0000
+heading: Belkirk College
+sub_heading: Engineering and Health Sciences
+layout: home
 published: false
 
 ---
