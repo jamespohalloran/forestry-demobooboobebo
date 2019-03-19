@@ -58,5 +58,3 @@ fields:
     time_format: 
     display_utc: 
   default: '2019-03-19T18:26:39.451Z'
-pages:
-- _data/information.yml
