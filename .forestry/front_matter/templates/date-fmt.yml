@@ -13,3 +13,7 @@ fields:
     time_format: 
     display_utc: 
   default: ''
+- type: datetime
+  name: working_date
+  label: working_date
+  default: 2019-03-01 04:00:00 +0000
