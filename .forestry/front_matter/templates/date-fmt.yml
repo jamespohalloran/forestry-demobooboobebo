@@ -11,11 +11,11 @@ fields:
     required: false
     date_format: MM/DD/YYYY
     time_format: h:mm A ZZ
-  default: 2019-03-01 00:00:00 -0400
+  default: '2019-03-01T00:00:00.000-04:00'
 - type: datetime
   name: relative_date
   label: relative_date
-  default: 2019-03-01 00:00:00 -0400
+  default: '2019-03-01T00:00:00.000-04:00'
   default_to: relative_default_date
   config:
     date_format: MM/DD/YYYY
@@ -51,5 +51,5 @@ fields:
     min: 
     max: 
 pages:
-- about.md
 - fewgre.md
+- about.md
